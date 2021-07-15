@@ -1,0 +1,27 @@
+.meneger{
+    
+}
+.meneger img {
+	opacity: 0.6;
+}
+.icon{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.icon img{
+	width: 70px;
+}
+h4{
+	text-align: center;
+	margin: 3px;
+}
+.cont{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cont img{
+	width: 40px;
+	margin-left: 30px;
+}
